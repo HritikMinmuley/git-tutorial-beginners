@@ -5,3 +5,5 @@ The best strategy is:
 - Sleep
 - Code 
 - Repeat
+
+Thank You.
