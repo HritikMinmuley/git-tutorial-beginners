@@ -7,3 +7,6 @@ The best strategy are:
 - Repeat
 
 Thank You.
+
+# Summary
+Its a nice repo
